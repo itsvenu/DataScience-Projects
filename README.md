@@ -9,5 +9,7 @@ Associated blog posts of projects in this repo.
 
 * WomenInScienceDay - [Shine and let shine!](https://itsvenu.github.io/post/women-in-science/)
 
+* GOT Ratings
 
+![GOT RATING](GOT_Ratings/rating.png)
 
