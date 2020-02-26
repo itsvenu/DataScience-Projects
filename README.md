@@ -3,7 +3,7 @@ Associated blog posts of projects in this repo.
 
 ### Machine learning
 
-* DeepMeth - Deep learning for Brain tumor classification [release blog-post soon]
+* DNN - [release blog-post soon]
 
 * BreastCancer_RandomForest - [A deep dive into 'Forests'](https://itsvenu.github.io/post/brca-random-forests/)
 
@@ -14,6 +14,8 @@ Associated blog posts of projects in this repo.
 * GoogleLocationHistoty - [Google and my travel history](https://itsvenu.github.io/post/travel-history/)
 
 * WomenInScienceDay - [Shine and let shine!](https://itsvenu.github.io/post/women-in-science/)
+
+* cb-challenge - Solutions implemented in R and python for some programming challenegs
 
 ### DataViz
 
