@@ -9,9 +9,9 @@ Associated blog posts of projects in this repo.
 
 ### Data science
 
-* Biostars - [Bioinformatics & Biostars QA forum](https://itsvenu.github.io/post/bioinformatics-biostars/) & [Evolution of Biostars](https://www.biostars.org/p/365738/)
-
 * COVID-19 - [COVID-19 - An exploratory data analysis](https://itsvenu.github.io/post/covid-19/)
+
+* Biostars - [Bioinformatics & Biostars QA forum](https://itsvenu.github.io/post/bioinformatics-biostars/) & [Evolution of Biostars](https://www.biostars.org/p/365738/)
 
 * GoogleLocationHistoty - [Google and my travel history](https://itsvenu.github.io/post/travel-history/)
 
