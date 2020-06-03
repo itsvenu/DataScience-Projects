@@ -1,13 +1,13 @@
 
 Associated blog posts of projects in this repo.
 
-### Machine learning
+### Machine learning & Data science
 
 * DNN - [release blog-post soon]
 
-* BreastCancer_RandomForest - [A deep dive into 'Forests'](https://itsvenu.github.io/post/brca-random-forests/)
+* SingleCellDB - [How to start asking questions as a data scientist?](https://itsvenu.github.io/post/ds-qa/) 
 
-### Data science
+* BreastCancer_RandomForest - [A deep dive into 'Forests'](https://itsvenu.github.io/post/brca-random-forests/)
 
 * COVID-19 - [COVID-19 - An exploratory data analysis](https://itsvenu.github.io/post/covid-19/)
 
