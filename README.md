@@ -21,6 +21,10 @@ Associated blog posts of projects in this repo.
 
 ### DataViz
 
+* My daily expenses in first 6 months of 2020
+
+![exp](Expenses_Jan2Jun2020/expenses.png)
+
 * GOT Ratings - Game Of Thrones rating, data collected from IMDB
 
 ![GOT RATING](GOT_Ratings/rating.png)
