@@ -1,5 +1,8 @@
 
 '''
+@Venu Thatikonda
+@itsvenu_
+
 python AutoZOOM_v0.03.py --zoom_link "zoom-meeting-link" --meeting_date "06-09-2020" --meeting_time "13-38-00"
 '''
 
