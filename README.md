@@ -3,7 +3,7 @@ Associated blog posts of projects in this repo.
 
 ### Machine learning & Data science
 
-* DNN - [release blog-post soon]
+* AutoZOOM - [A Python script to auto join your zoom meetings](https://itsvenu.github.io/post/auto-zoom/) 
 
 * SingleCellDB - [How to start asking questions as a data scientist?](https://itsvenu.github.io/post/ds-qa/) 
 
