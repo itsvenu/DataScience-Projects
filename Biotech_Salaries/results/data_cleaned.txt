@@ -1,0 +1,298 @@
+id	company_review
+employee_615	rating: "work harder, not smarter" is the unofficial motto
+employee_1199	rating: 10.0
+employee_186	rating: 10/10
+employee_640	rating: 10/10
+employee_405	rating: 10/10, fantastic
+employee_1109	rating: 100%, great culture and people, good balance
+employee_1150	rating: 12 Federal Paid Holidays, plus 4 weeks PTO (PTO increases as years of service increase ex. 0-2yr, 2.1-4yr...)
+employee_1144	rating: 2.0
+employee_187	rating: 2.5/5 - High expectations with unclear role responsibilities; terrible management
+employee_1038	rating: 2/10. Chronic underpayment. Was experienced salary theft for 7 months (was later remedied). High Turnover. Low moral. Lack of consideration for company wide interpersonal issues.
+employee_1151	rating: 2023 and 2024 have been difficult because of the market (many layoffs) but fortunately, I'm still around
+employee_1162	rating: 3.0
+employee_388	rating: 3.5
+employee_572	rating: 3.5/5
+employee_821	rating: 3.5/5 fine for a first job. Very competitive and metrics driven. Poor middle management.
+employee_822	rating: 3/5
+employee_1027	rating: 3/5
+employee_256	rating: 3/5
+employee_435	rating: 3/5
+employee_522	rating: 3/5
+employee_1141	rating: 4 Stars - I quite like my job and feel like I'm compensated reasonably, but I'm perma night shift and it's not looking like I'm getting out any time soon. Also intracompany advancement is not looking too great - will probably have to look elsewhere for a promotion.
+employee_800	rating: 4.0
+employee_245	rating: 4/10 I hate it here
+employee_73	rating: 4/5
+employee_50	rating: 4/5
+employee_850	rating: 4/5
+employee_527	rating: 4/5
+employee_682	rating: 4/5 - get to wear lots of hats.  make a big impact at smaller biotechs.  if you're hungry you'll get rewarded.
+employee_1212	rating: 5 stars
+employee_965	rating: 6.0
+employee_976	rating: 6.0
+employee_326	rating: 6.5/10 - government grant support only results in poor benefits and PTO. Upside is less stress and more scientific freedom
+employee_698	rating: 6/10
+employee_730	rating: 7.0
+employee_583	rating: 8.5/10 while I worked there in terms of the type of regulatory strategy work I did, 5/10 in terms of the people (all older, very few played well with others), 9/10 line manager who was great, 0/10 new CEO since he said no layoffs in the future then literally the next day I got laid off.
+employee_1043	rating: 8/10
+employee_133	rating: 8/10
+employee_701	rating: 9/10 rating. 5 weeks vacation, 12 holidays (+EOY shutdown).
+employee_60	rating: 9/10. Great boss and group. flexible office arrangement. flex schedule. good w/l balance
+employee_1130	rating: A
+employee_469	rating: A lot of work to do and senior leadership vision is not always clear. Use old fashioned methods.
+employee_398	rating: A+
+employee_109	rating: Acquired from small biotech, three rounds of layoffs in a year to fully dismantle the previous company as a recognizable group of people.  Future uncertain, our current jobs end in a couple months (no defined date).  We are encouraged to find employment within Vertex but that is heavily biased toward people willing to move from San Diego to Boston.  Overall Vertex has treated us with dignity whilst not being shy with the sickle.
+employee_804	rating: After recent reorg, it’s making it hard to want to stay in this role
+employee_1183	rating: Alright, but very slow for career growth.
+employee_1128	rating: Amazing
+employee_1216	rating: At an inflection / changeover point (a long one)
+employee_856	rating: Awesome company, most transparent management ever, non-toxic environment, and great work life balance.  Don't sacrifice for your company because they can kick you out at any moment.
+employee_843	rating: Awesome place to work
+employee_67	rating: B
+employee_128	rating: B+
+employee_520	rating: B-
+employee_320	rating: Best company I've found so far. Sometimes faced with extreme deadline pushes and unfair testing asks, but that's on par with any CDMO QC group I've been involved with before. Compensation is kept competitive for this reason.
+employee_980	rating: Best place I've ever worked! But I've also only ever worked at places I hated or were doing work i didn't value long-term before, so do with that what you will.
+The boss and team are what really make it. The compensation and prospects are really not competitive enough. It's gonna suck when I've exhausted in the in- company avenues and have to leave such a good team to grow in the industry.
+employee_589	rating: Big push for fast first in human timelines upper leadership. Rushing things so much has lead to issues. On a more local level, my manager is great at trying to shield us from the stress (not every manager excels at this…)
+employee_951	rating: Boutique life sciences firm where most projects are rooted in competitive intelligence and additional strategy projects emerge from portfolio re-organizations and opportunity analyses.
+employee_952	rating: Burnt out by year 3, holding on at year 5, maybe wasn't for me?
+employee_709	rating: COmpany culture is not great, work-life balance is non-existent
+employee_1090	rating: Cell lab department was 3/10, cell and gene therapy department is 9/10
+employee_798	rating: Chaotic leadership, bad morale and culture, frustrating job
+employee_614	rating: Company could do better especially since it is a big pharma
+employee_188	rating: Company has a lot of organizational bottlenecks. Department I am in is treated like a CRO. Gives you freedom to do what you want as long as it is what the TA (therapeutic area) wants. I've had many ideas/strategies shot down, only to magically reappear within the TA. Individuals are typically great to work with and flexible to issues that life throws at you. Lots of resources to learn, grow, and find opportunities. Absolutely ZERO assistance on how to use them. You have to do 100% of everything by yourself or it won't happen. The isolation can get rough. Follow-ups, check-ins, and such are rare or a joke.
+employee_1066	rating: Company is good. Culture is good. Struggles of the start up include budget conciousness and office politics. (I don't deal with the politics as much - mostly a management thing)
+employee_182	rating: Company is in Cambridge, but fully remote in Tristate area. Company has good culture as we’re still under 100 people and been able to control hiring and expansion
+employee_22	rating: Company is very old school, top down. Takes a long time to get things done, but salary and benefits are incredible. I could not find any company around that could match my salary or benefits. The people who I work with have said the same which is why Merck is full of lifers (worked 15-25 years with the company). Company also just moved to giving everyone - regardless of age or years worked - 25 days of vacation a year.
+employee_420	rating: Company vision and culture overall positive, but marketing specifically not a great environment. Limited mobility and nepotism
+employee_975	rating: Current Company, been there for 2 years, 5/5 Stars, great place even considering the layoffs that occurred this year (that I was lucky enough to survive.)
+employee_370	rating: Dead growth feel like it’s a government job
+employee_924	rating: Decent
+employee_761	rating: Decent work life balance, great amount of PTO and sick time. Sick time can be banked to pay for continued health care after retirement
+employee_676	rating: Difficult, but for a CRO corp they're run of the mill. Always protect yourself first, but they haven't burned me seriously yet. We're adding a Manu capacity that I'm key for, and primed to fulfill my life's plans for my specialty all those years ago in youth. 
+
+They've had a layoff recently and are turtling to get more investment as a few big projects reach renewal milestones. If I wasn't doing what I love with financially rewarding opportunity I would relocate elsewhere. Here's to my section being the first revenue pipeline they've ever had. 7/10
+employee_145	rating: Disorganized at the institutional level and disagree with hiring/firing practices. Team culture is good.
+employee_280	rating: Dogshit CEO that just got replaced
+employee_881	rating: Easy Peasy
+employee_890	rating: Evonik is OK - reasonably stable company. Pay is good. Has its problems but not necessarily sure if grass would be greener on the other side.
+employee_773	rating: Excellent
+employee_801	rating: Excellent company to work for in terms of reputation. Very complicated products and stressful job
+employee_661	rating: Excellent company, I love it
+employee_231	rating: Excellent environment
+employee_795	rating: Excellent place to work!
+employee_567	rating: Excellent work life balance.
+employee_219	rating: Extremely transparent about all facets
+employee_1017	rating: Fantastic company. Great benefits, great work life balance.
+employee_613	rating: Fast paced and good place to learn a lot of skillsets and techniques
+employee_511	rating: Fast-paced for sure, but not toxic.
+employee_85	rating: Fine
+employee_1200	rating: Generally good
+employee_835	rating: Generally underpaid relative to other positions, but great benefits. Good place to learn and develop skills if new to industry.
+employee_91	rating: Generous benefits. Pay is great if you work overtime, but mediocre if you don’t. COLA adjustments do NOT come close to making up for CoL in places like CA. 
+
+Things are highly dependent on your how your manager likes and knows you.
+employee_1152	rating: Getting worse in R&D unless company can figure out how to outsource lower priority work or increase R&D spend effectively. Entering into the profiteering era, remains to be seen if existing good culture can be sustained.
+employee_1106	rating: Giant scrambled mess not worth it
+employee_793	rating: Good
+employee_162	rating: Good :)
+employee_702	rating: Good benefits, decent pay, upward mobility heavily limited. Raises are small and new hires paid more than experienced members if you let them.
+employee_385	rating: Good campny with good benefits, competitive swedish salaries, flex time, ca 55 hours of yearly shortening of work time, paid leave for holiday "in-between" days, 25 days vacation.
+employee_819	rating: Good company - crazy and dangerously ambitious.  Scary Damn the Torpedos!  Full Speed Ahead philosophy.
+employee_826	rating: Good company overall. Benefits are at the top of industry (16 weeks pat/maternity leave. 11 federal holidays, 4 shutdown days 26 vacation days.). Business Processes can be overly cumbersome at times, and promotions are hard to get (easier to switch jobs for a promotion than getting promoted in place). Each site has a wildly different culture.
+employee_1000	rating: Good company with growing pains. Would reccomend for entry level technicians. You learn a lot quickly and become very involved, and it’s a fun atmosphere.
+employee_251	rating: Good compensation and benefits, but very disorganized and stressful environment.
+employee_107	rating: Good direction, bright future
+employee_321	rating: Good people and fun, but increasing micromanagement and underpaid compared to market competition
+employee_818	rating: Good place to grow
+employee_45	rating: Good so far
+employee_508	rating: Great
+employee_1105	rating: Great
+employee_898	rating: Great
+employee_923	rating: Great Company - pay is a little low for how much they recoup in parking and healthcare costs. But you basically get it all back into a retirement account.
+employee_1148	rating: Great bosses in 2 different positions.  Benefits and pay have been competitive but will see if it continues to be competitive when I am promoted to AD
+employee_373	rating: Great company
+employee_811	rating: Great company and benefits.. generous vacation time..
+employee_680	rating: Great company with support for development and growth
+employee_504	rating: Great company, amazing culture
+employee_384	rating: Great company, great benefits, don't hate my job
+employee_919	rating: Great company, great boss, great colleagues…a little bit dusty when it comes to digital infrastructure
+employee_433	rating: Great company, great tech, good management, best benefits
+employee_278	rating: Great culture
+employee_383	rating: Great culture, but stock price has been crushed
+employee_737	rating: Great experience so far
+employee_28	rating: Great experience with this company over 4 years. Lots of opportunities. On 3rd promotion already.
+employee_503	rating: Great people, low stress environment
+employee_1072	rating: Great place to work
+employee_112	rating: Great place to work, especially compared to other companies I have worked for and what others have said about previous employers
+employee_628	rating: Great science and work-life balance, but slow growth
+employee_152	rating: Great so far
+employee_430	rating: Great so far
+employee_564	rating: Great team but company and HR can be better
+employee_809	rating: Great technology, inexperienced management with strong bias against remote employees
+employee_401	rating: Great time off and benefits. Clear path from fellowship to full time employment
+employee_593	rating: Great work life balance, great team, great bosses
+employee_815	rating: Great!
+employee_212	rating: Great!
+employee_275	rating: Great!
+employee_114	rating: Happy, could be making more elsewhere, but WLB and team are great so I am happy
+employee_364	rating: Highly lead dependent, have had leads that made me work 50+ hours a week. and a lead who would try to make sure we would at max 40. Not my favorite with the leads who would over work us.
+employee_608	rating: Horrible place to work.
+employee_1064	rating: I believe in the mission and trust my leadership.  Work/life balance in my group could be better
+employee_183	rating: I like it. Better than Cannabis
+employee_845	rating: I love it, can’t complain
+employee_127	rating: I love working here
+employee_445	rating: I really enjoyed working at this company. Unfortunately, I was laid off in January, but I had great coworkers, a great manager that cared about my well-being and career growth, a great company mission, and fantastic benefits. I would give away the company if I'm specific about PTO, but it was one of the best I've ever seen offered by a company.
+employee_335	rating: I very much enjoy my current role - a very small company, so I have a lot of scientific freedom. It is stressful, but the pay is good and I end up having a pretty good work-life balance.
+employee_664	rating: I went from big pharma out of Chicago to this little biotech out of San Diego and it’s SO much better. WLB is top notch, benefits are amazing, good PTO, 10 company holidays and a week shut down at the end of the year. Quarterly week of no meetings. Dogs are allowed in office if you work on site (I’m remote). Love it here!!
+employee_482	rating: I work with great people and I like my coworkers. However, company in general is horrible, it doesn’t care about its workers or retaining employees. As a scientists we don’t have rsu, poor bonus — only 4% and poor merit increase. Old office and terrible coffee. Additionally, they make us to take PTO, 80 hours every HALF a year as a MUST.
+employee_76	rating: I would not recommend working here. The leaders are problematic and depending on your team it's potentially a hostile work environment. The funding is solid (4 years of runway and projects with excellent profit potential in the pipeline) and the lab has good resources, but the quarterly/yearly goals are intentionally unrealistic (so they don't have to pay bonuses) and they treat people like exploitable resources instead of autonomous human beings. Business is prized over actual productivity and there are like 15 hours of recurring meetings every week that add almost no value but you have to attend.
+employee_386	rating: I would say 3/5. The works is fantastic and we really are making a difference. However, management is out of touch with what the lab scientists do. There is always a "don't blame me, you're the scientist" mentality despite the scientists continuously having to justify why we do anything and take suggestions (with or without logic) and do them.
+employee_31	rating: I wouldn’t recommend someone works here. I want to leave, but not bad enough to go somewhere with less pay. 
+Run like an academic lab, management splits time with Sanford in South Dakota and have no idea what is happening EVER
+Frequent layoffs, every 2-3 years
+Lack of transparency of what’s actually going on is pretty sketchy
+employee_32	rating: I wouldn’t recommend someone works here. I want to leave, but not bad enough to go somewhere with less pay. 
+Run like an academic lab, management splits time with Sanford in South Dakota and have no idea what is happening EVER
+Frequent layoffs, every 2-3 years
+Lack of transparency of what’s actually going on is pretty sketchy
+employee_1125	rating: I'm paid by HHMI but work at Harvard Medical School. The benefits are really good, 5 weeks PTO, no set start time as long as you work your 8 hours for the day (lab specific). Could definitely be paid more especially being in the Boston area.
+employee_902	rating: I'm watching this company cheap out hard and outsource work to cheaper countries to bring down salaries, otherwise they are a disorganized mess
+employee_478	rating: If the salary would be more competitive, I would be very happy
+employee_94	rating: In need of compensation review. Attracts self motivated individuals looking to perform at the highest level.
+employee_448	rating: Incredible people, but company systems and processes are difficult to navigate and ever-changing, making it difficult to complete tasks and push projects forward without having to side-step all the red tape.
+employee_352	rating: Industry standard benefits. Compensation is lower than competitors generally. The company is a bit fragmented between all of its business units and sites across the globe.
+employee_536	rating: Inequitable compensation within company. Slow to promote. Nickeled and dimed for time off. Overworked and unsatisfied.
+employee_769	rating: Institution is great, my experience within my particular position has been less than stellar.
+employee_286	rating: Interesting work but promotion/progress very slow so you end up working at a higher level for years before the recognition
+employee_849	rating: It could be worse. My biggest gripe is my commute but that doesn't really have to do with the workplace. More mentorship would be nice.
+employee_915	rating: It depends heavily on your principal investigator. Mine is incredible. Institution is very slow to get things done.
+employee_406	rating: It's a big machine, people are ok to poor colleagues. I have to document everything for my own safety with leadership. No free food (unlike previous companies). Office outside of Boston feels like I'm in Office Space
+employee_941	rating: It's fine
+employee_261	rating: It's good so far, I only started seven months ago. Bonus was prorated which sucks (first world problem) because our multiplier was high this year.
+employee_999	rating: It's good to work for a big dog
+employee_266	rating: It's ok, lot of talk about DEI and social values and all that, but at the end of the day, we're all in it to make money right?
+employee_1065	rating: It's ok, small town vibe, everyone knows each other
+employee_1016	rating: It's pretty good
+employee_710	rating: Its ok
+employee_5	rating: It’s a great company with a great technology platform, excited to see where it goes.
+employee_249	rating: It’s been cool to watch my company grow. Solid teams, transparent c-suite, very good work-life balance (including hybrid for lab staff)
+employee_241	rating: It’s going to be really hard for me to leave this company. My favorite perk is the flexibility. There’s not set time we need to be there so we can come and go whenever as long as we meet the dead lines. Any data analysis that doesn’t require you to be in the lab can be done from home. It all depends on your direct superior. There is virtually no micromanaging involved as long as your manager is confident with your work. My manager trust my process and is only there to help interpret jdata I produce and offer valuable insight and advice on what we should do next. There are some managers, but only a few, are much involved and controlling so it all depends who you work under. These tend to be a bit more stressful for those employees. Genentech is very much ran like a university so your work and day to day depend heavily on what lab/principal scientist you are assigned to.
+employee_679	rating: It’s on fire
+employee_707	rating: J&J is a decent place to be a contract scientist. Benefits depend on the contracting firm that brings you in, but once you’re in folks treat you like you’re just another J&J employee, and you’re able to use any facilities at the campus.
+employee_576	rating: Just started but loving it so far
+employee_517	rating: Lack of transparency, highly variable culture between departments
+employee_1189	rating: Large European multinational energy company located in Houston. One can jump within vastly different organizations while staying in the company. Some organizations include R&D biotech, solar, electrical charging, upstream exploration, commercial, IT, trading, etc. Rotated 3 roles so far within the company with a B.S. in Biotech. Grateful for this company's opportunity and learnings; changed my life completely. Went through a couple reorgs in the energy industry in the past years, but company always give months in advance notice and opportunity to apply in other organizations (great opportunity to try new things). As long as one shows the will and potential to learn/carry out the job, the company would give you the chance to do it (in my team I even have a college dropout younger than me and earning more). Amazing culture overall.
+employee_552	rating: Leader in Gene Therapy, good focus on employers, stable for now
+employee_1001	rating: Learn much. Manager is very supportive
+employee_502	rating: Like all companies in this industry, I think we're genuine in our intent to help patients. Like most, we're pretty messy operationally and get in our own way a lot.
+employee_421	rating: Lol terrible
+employee_58	rating: Lot of politics but good company with great compensation
+employee_49	rating: Lots of training opportunity and access to cutting edge science but promotion opportunities and major increases in compensation are rare. Telework and work-life balance are hard to beat.
+employee_872	rating: Love it
+employee_643	rating: Love it
+employee_171	rating: Love it! Meaningful work. Coworkers are smart and kind.
+employee_378	rating: Love my job and company.
+employee_1005	rating: Love the team and the product, wish we had the business side nailed down better
+employee_644	rating: Love working for my company but it can be overwhelming and draining
+employee_648	rating: Loved working there and learned/grew a lot during my time, however the company recently had mass layoff and I was let go. Very disheartening to see not only myself but other REALLY talented scientists laid off because of a mistake made by higherups.
+employee_1008	rating: Low pay for the kind of qualifications and experience that I have, no retirement benefits, no commuter benefits. Most people in this role is fresh out of college, so it tends to feel like college/high school part 2.
+employee_1173	rating: Management makes poor business decisions
+employee_875	rating: Many layoffs
+employee_635	rating: Mediocre management, half good people half egotist people. A handful people think they run the company and make poor scientific decisions.
+employee_178	rating: Mid
+employee_63	rating: Mostly positive, though challenging to be in a startup in the current economic climate and maintain positive morale. Inexperienced senior leadership struggles to hold focus and prioritize. Very good work like balance and mission worth building toward
+employee_667	rating: My team is excellent with great communication. Upper management is a mess with cronyism and neptoism hires throughout.
+employee_363	rating: N/A
+employee_103	rating: Nearly ideal work environment, 5/5 stars.
+employee_861	rating: No actual work happening in Europe
+employee_624	rating: No career growth in 5years but I work 2-3 hours a day making 100k
+employee_550	rating: Not decided
+employee_808	rating: Not great here. Pretty bad actually. Wish I never took this job.
+employee_1133	rating: Not great, not terrible
+employee_758	rating: Not so great culture after recent layoffs
+employee_723	rating: Not the most competitive pay in the Bay Area. HR claims the company is competitive, but can easily make 50k more at other companies. Company is ok to work for, learning a lot about new diseases. Some teams barely work, yet sr management does nothing about it.
+employee_1210	rating: On the decline
+employee_160	rating: Overall happy - hard to tell if the company is doing well though
+employee_267	rating: Overall positive rating
+employee_805	rating: Overall positive. Recent layoffs negatively impacting culture.
+employee_1201	rating: Overall promising company. Still more of a biotech/start-up mindset as opposed to big pharma, leads to a lot of churn with decision making as there is micromanagement from the top. They are working on it. Generally work/life is a bit poor compared to big pharma.
+employee_922	rating: Overworked and severely underpaid for the legal responsibility and exposure to concentrated pesticides
+employee_900	rating: Overworked and underpaid
+employee_678	rating: Parexel is great and is up there with the top CROs
+employee_989	rating: Pay feels lacking, but low stress job. Poor management destroys morale in a heartbeat often.
+employee_1026	rating: Pays well, but tons and tons of stress
+employee_177	rating: Personal experience good but seems to be large amount of layoffs
+employee_350	rating: Pfizer needs to globalize A LOT of their efforts. A lot of rework because each site and divisions have their own governance and endorsement structure. In general, Pfizer's rumors and reputation definitely is true. It is definitely a business first, science a distant second. Everything comes down to money. Townhalls are the purest form of pep rallys and no substance. Nepotism is rampant at the highest of levels. Development is openly encouraged but leadership simply dont know how to develop people.
+employee_658	rating: Poor management
+employee_1119	rating: Poor, lots of layoffs and reorganization happening company wide
+employee_525	rating: Positive
+employee_277	rating: Positive, although my specific site is a bit of a nightmare
+employee_203	rating: Pretty chill and a lot of smart individuals. I am located in Boston
+employee_689	rating: Pretty good
+employee_382	rating: Promising technology with a viable path to the clinic. The management is just poor. Fresh out of academia, narcissists, expecting people to work overtime and weekends, rarely approve PTO. CSO came from the same lab. She was a postdoc and found herself a CSO overnight, and it shows.
+employee_538	rating: Pros: Good culture. Cons: slow promotions
+employee_594	rating: Regeneron is an amazing place to work. Great people, great science. Very lucky to have landed here
+employee_344	rating: Selfish careless management. Too busy as to look down at the bench and figure out the real issues why they are loosing clients. Recent layoff of about 40% of the lower level employees, none of the managerial roles where severed.
+employee_1168	rating: Sinking ship
+employee_605	rating: Skin color matters, if not white then come if you have network connection
+employee_474	rating: Solid
+employee_1030	rating: Stay Awayyy! Fog=Foggy
+employee_1004	rating: Still having growing pains, too many chiefs/not enough Indians, good starting salary for techs(28-30/hr), very long working hours for technicians, love my department/coworkers
+employee_1087	rating: Still in scale up so the work load is a hot mess. I am the only quality employee on site and awaiting a promotion for it. Otherwise, the flexibility is great and the work is fun
+employee_895	rating: Stressful work environment but compensation is generous for those who deliver results. Underperformers are identified and fired quickly; in one instance, a new hire was terminated on the same day.
+employee_1014	rating: Super flexible with work/life balance, mostly work from home.
+employee_555	rating: Terrible for those who don’t perform well under stress and pressure
+employee_938	rating: Terrible, don't work here if you can help it
+employee_1209	rating: The CEO is awful, the work isn’t promising for longevity of the company
+employee_1077	rating: The benefits are stellar- the culture leaves something to be desired. There is a lack of decision making and very toxic folks in leadership.
+employee_894	rating: The company has grown a lot in terms of headcount in the past 5 years so company culture and experiences for people are widely different.
+
+It all depends on the team that you work with.
+Opinions based on science are respected. General culture promotes self-starting initiatives and speaking up for yourself.
+
+As someone who worked in clinical diagnostics I have learned a lot. Have been lucky to be in a team where PhDs and direct managers have been receptive of my ideas. But to reach that stage I had to learn a lot and grow to understand a lot as well.
+
+Keep an open mind and never close yourself off to being humble and open to learning. Having your mind closed off to learning new things and getting comfortable in our current level of knowledge is one-way ticket to being stuck in limbo here.
+employee_943	rating: The people are amazingly experienced, and those associated with prior gacela extremely professional, warm and kind. However the very top of clinical leadership can not move out of the way, too many levels of approvals, incurring costly delays. Extremely cautious company that results in loss of time and benefit for patients.
+employee_446	rating: The site that I worked for was fairly young and overall had a casual "small business" feel
+employee_905	rating: Theranos 2.0. Having issues fundraising. Making budget cuts.
+employee_675	rating: This depends on the team you work with but R&D side is very conscientious and autonomous. High expectation to be independent and proactive. Can be a bit chaotic because company goes through frequent M&A/restructuring.
+employee_562	rating: This is a great company that is by far the best place I have worked. Many colleagues also say the same.
+employee_222	rating: Though my first company, it is a great company with a better industry culture compared to US big pharmas. The company is an older european (danish) company so tend to traditional and conservative but have great potential to grow and have a bright future for next the decade.
+employee_318	rating: Too new to say.
+employee_977	rating: Typical government setting, seniority over experience and competence.
+employee_471	rating: Typical start-up stress.
+employee_258	rating: Typical startup with a heavy workload
+employee_20	rating: Ugh I hate all those people who fabricate their data to get promoted
+employee_1100	rating: Unlimited PTO
+employee_1142	rating: Unstable, rewarding
+employee_75	rating: Validations and QA are great. Routine testing departments are always getting slammed.
+employee_18	rating: Varies strongly by department
+employee_341	rating: Varies wildly by department and manager
+employee_306	rating: Very cushy company to work at. Most people have fantastic work life balance
+employee_254	rating: Very happy with my company
+employee_260	rating: Very happy with where I am at the moment.
+employee_269	rating: Very hard work with high workloads. Very stable job with a pension. Salary is OK at GS 15 equivalent or above. COL in DMV is not the cheapest but better than Boston or Bay Area.
+employee_757	rating: Very pleased with my career at a large biotech company.
+employee_295	rating: Very positive, 11/10.
+employee_1081	rating: Very satisfying
+employee_733	rating: Very small company, my first 2 years were great, but new hires have ruined the environment over the last year
+employee_704	rating: Was great when smaller company. Now stressful and culture is worse. Still fascinating work and rewarding but hectic and short staffed.
+employee_116	rating: Work with great people, but company tends to staff leanly, which leads to working longer hours. Most people work 40-50 min. Some do ~60.
+employee_368	rating: Work with great people, fantastic supervisor, low stress, no complaints
+employee_780	rating: Workload is good as well as work flexibility. Organization has severe leadership issues however from department to CEO and has been focused on cost-cutting measures including large swathes of layoffs for "underperforming" business/therapeutic sectors
+employee_36	rating: Would recommend
+employee_463	rating: excellent company, great values, great leadership. wonderful teammates. excellent manager.
+employee_803	rating: good company, lots of events and awards to keep morale high
+employee_633	rating: great boss so I'm good
+employee_699	rating: great company with work-life balance
+employee_97	rating: great culture
+employee_802	rating: great location and culture
+employee_111	rating: idk, good?
+employee_603	rating: not great
+employee_1149	rating: oof
+employee_253	rating: ripoff
+employee_623	rating: they didn't understand how much work I did for them until I left - Ginkgo spin off / start up, I learned a lot about the parent company and how bad they are
+employee_982	rating: you learn a lot in CRO/CMO but pay is consistently low all across the companies
